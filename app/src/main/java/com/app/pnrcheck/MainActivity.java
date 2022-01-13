@@ -44,7 +44,7 @@ TextView trainName;
         trainName=(TextView)findViewById(R.id.trainName);
         jDate=(TextView)findViewById(R.id.jDate);
         booking=(TextView)findViewById(R.id.bookingStatus);
-       current=(TextView)findViewById(R.id.currentStatus);
+        current=(TextView)findViewById(R.id.currentStatus);
         clas=(TextView)findViewById(R.id.clas);
         chart=(TextView)findViewById(R.id.chartStatus);
         tvError=(TextView)findViewById(R.id.tvError);
